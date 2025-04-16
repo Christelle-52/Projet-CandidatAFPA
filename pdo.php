@@ -1,8 +1,8 @@
 <?php
 
-$dbh = "mysql:host=private.localhost;dbname=formationAfpa";
-$user = 'AdminMint';
-$pass = 'Mq*sL--52Dpt';
+$dbh = "mysql:host=localhost;dbname=formationAfpa";
+$user = 'root';
+$pass = '';
 
 try {
 	// On se connecte à MySQL
