@@ -1,0 +1,36 @@
+h1{
+    color:#e9023a;
+    text-align:center;
+    font-size:50px;
+}
+
+.logoafpa{
+    width:330px;
+    margin-left:5%;
+}
+
+.form-control{
+    border:1px solid black;
+}
+
+.suivant{
+    font-size:50px;
+    font-weight: bold;
+    color:white;
+    background-color: #004080;
+    text-align: center;
+    width:100%
+}
+
+.suivant:hover{
+    color:#004080;
+    background-color: white;
+}
+
+.form-check_input{
+    -ms-transform: scale(2); /* IE */
+	-moz-transform: scale(2); /* FF */
+	-webkit-transform: scale(2); /* Safari and Chrome */
+	-o-transform: scale(2); /* Opera */
+	transform: scale(2);
+}
